@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275196114055",
+    "project_id": "isetn-93886",
+    "storage_bucket": "isetn-93886.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275196114055:android:76491125be2cdccfc4b422",
+        "android_client_info": {
+          "package_name": "com.example.isetn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEumYMo2VjDlVGKyQuiw58Tjd_-0Bt3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275196114055:android:a64dfe007292179bc4b422",
+        "android_client_info": {
+          "package_name": "com.exemple.GeoISETN"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDEumYMo2VjDlVGKyQuiw58Tjd_-0Bt3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

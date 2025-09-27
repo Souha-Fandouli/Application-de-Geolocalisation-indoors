@@ -1,0 +1,112 @@
+name: GeoISETN
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.18.0
+  cloud_firestore: ^4.17.5
+  firebase_storage: ^11.7.7
+  firebase_database: ^10.5.7
+  image_picker: ^0.8.7+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+  bdd_widget_test: ^1.2.1
+  build_runner: ^2.4.9
+  flutter_driver:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/iset.png
+    - assets/images/premier_etageG.png
+    - assets/images/D-C.png
+    - assets/images/C-D.png
+    - assets/images/C-biblio.png
+    - assets/images/Admi-C.png
+    - assets/images/C-admi.png
+    - assets/images/biblio.png
+    - assets/images/C-mec.png
+    - assets/images/bib-C.png
+    - assets/images/labo.PNG
+    - assets/images/dep_meca.png
+    - assets/images/Administration.PNG
+    - assets/images/premier_etage B-C.PNG
+    - assets/images/blocA1.PNG
+    - assets/images/blocB1.PNG
+    - assets/images/blocC1.PNG
+    - assets/images/blocD1.PNG
+    - assets/images/blocG1.PNG
+    - assets/images/bib.PNG
+    - assets/images/bib-C.png
+    - assets/images/labo-bib.png
+    - assets/images/bib-labo.png
+    - assets/images/mec-labo.png
+    - assets/images/labo-mec.png
+    - assets/images/B-G.png
+    - assets/images/A-labo.png
+    - assets/images/G-B.png
+    - assets/images/admi-B.png
+    - assets/images/admi-G.png
+    - assets/images/B-admi.png
+    - assets/images/G-admi.png
+    - assets/images/mec-C.png
+    - assets/images/mec-A.png
+    - assets/images/A-mec.png
+    - assets/images/bib-A.png
+    - assets/images/A-bib.png
+    - assets/images/rez_de_chaussée_c.PNG
+    - assets/images/A-C.png
+    - assets/images/C-A.png
+    - assets/images/A-admi.png
+    - assets/images/Admi-A.png
+    - assets/images/Admi-bib.png
+    - assets/images/Admi-mec.png
+    - assets/images/map.PNG
+    - assets/images/bloc_c.png
+    - assets/images/atelier.PNG
+    - assets/images/logo.jpg
+    - assets/images/BlocA.PNG
+    - assets/images/BlocB.PNG
+    - assets/images/BlocC.PNG
+    - assets/images/BlocD.PNG
+    - assets/images/BlocG.PNG
+    - assets/images/rez_de_chaussée_A.png
+    - assets/images/Administration.PNG
+    - assets/images/premier_etage.PNG
+    - assets/images/premier_etageA.PNG
+    - assets/images/deuxieme_etageA.PNG
+    - assets/images/troisieme_etageA.PNG
+    - assets/images/A-B.PNG
+    - assets/images/B-A.PNG
+    - assets/images/A-G.PNG
+    - assets/images/A-D.png
+    - assets/images/G-A.PNG
+    - assets/images/geoiset.png
+    - assets/images/rez_de_chaussée_B.PNG
+    - assets/images/administration0.PNG
+    - assets/images/administration1.PNG
+    - assets/images/rez_de_chaussée_G.PNG
+    - assets/images/D-A.png
+    - assets/images/map1.PNG
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
